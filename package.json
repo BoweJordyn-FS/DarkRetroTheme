@@ -1,21 +1,25 @@
 {
-  "name": "darkretro",
-  "displayName": "DarkRetro",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.125.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "DarkRetro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/DarkRetro-color-theme.json"
-      }
-    ]
-  }
+	"name": "Dark Retro",
+	"displayName": "BeauxCodes: DarkRetro",
+	"description": "",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BoweJordyn-FS/darkretro.git"
+	},
+	"engines": {
+		"vscode": "^1.125.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "DarkRetro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkRetro-color-theme.json"
+			}
+		]
+	}
 }
