@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [v0.0.03] - 2026-07-08
+
+### Added
+
+- Added Light Version

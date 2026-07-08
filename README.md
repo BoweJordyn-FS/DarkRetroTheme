@@ -4,7 +4,11 @@ A dark, warm color theme for Visual Studio Code built around a small, deliberate
 
 ## Theme
 
+#### Dark Mode
+
 ![DarkRetro theme screenshot](images/darkretroscreenshot.png)
+
+#### Light Mode
 
 ## Install
 

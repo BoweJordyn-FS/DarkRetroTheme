@@ -19,6 +19,11 @@
 				"label": "DarkRetro",
 				"uiTheme": "vs-dark",
 				"path": "./themes/DarkRetro-color-theme.json"
+			},
+			{
+				"label": "DarkRetro Light",
+				"uiTheme": "vs",
+				"path": "./themes/DarkRetro-Light-color-theme.json"
 			}
 		]
 	},
