@@ -1,4 +1,4 @@
-# DarkRetro
+# DarkRetro - VSCODE Theme
 
 A dark, warm color theme for Visual Studio Code built around a small, deliberate palette: a deep charcoal-green background, a burnt-orange accent, a cream foreground, and a muted gold secondary accent.
 
